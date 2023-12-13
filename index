@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>MicroPython Webserver</title>
+  </head>
+  <body>
+      <form method='POST' action="">
+      <label> LED1 </label><br>
+      <input type="color" id="fcolor" name="name0"><br>
+      <label> LED2 </label><br>
+      <input type="color" id="fcolor" name="name1"><br>
+      <label> LED3 </label><br>
+      <input type="color" id="fcolor" name="name2"><br>
+      <label> LED4 </label><br>
+      <input type="color" id="fcolor" name="name3"><br>
+      <label> LED5 </label><br>
+      <input type="color" id="fcolor" name="name4"><br>
+      <label> LED6 </label><br>
+      <input type="color" id="fcolor" name="name5"><br>
+      <label> LED7 </label><br>
+      <input type="color" id="fcolor" name="name6"><br>
+      <label> LED8 </label><br>
+      <input type="color" id="fcolor" name="name7"><br>
+      <input type="submit">
+      </form>
+  </body>
+</html>
