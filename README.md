@@ -1,4 +1,4 @@
-# Verkefni-fogging-5
+# Verkefni-5
 
 ## Tími 1
 Við byrjuðum að brainstorma hugmyndir, við fengum alveg nokkrar flottar hugmyndir en við ákveðum að nota FREENOVE 8 RGB LED Module, eins og nafnið útskrýrir eru það með 8 rgbs sem geta blikkað fallega með rétta kóðanum. Við náðum að látta ljósin virka með hardkóðað
